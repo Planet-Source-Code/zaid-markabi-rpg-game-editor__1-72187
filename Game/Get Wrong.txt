@@ -1,0 +1,12 @@
+Get Wrong
+---------
+
+[ Get-Wrong ] is nice game, written in VB6 , and it's like RPG games .
+it's include great [ Level Editor ] which let you to add new blocks and items...
+This game comes with over 100 items and 4 levels .
+
+if you have any comments, just tell me..
+your comments help me to improve my hobby in programming..
+
+Email : ZaidMarkabi@yahoo.com
+Website: www.yazanmarkabi.webs.com
